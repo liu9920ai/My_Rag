@@ -3,7 +3,7 @@
 
 一个基于检索增强生成（RAG）的智能问答系统，支持本地模型和API服务，可处理多种文档格式并实现精准上下文检索。
 
-![示例截图](.\show_image\robot_show.png)  
+![示例截图](show_image/robot_show.png)  
 
 ---
 
