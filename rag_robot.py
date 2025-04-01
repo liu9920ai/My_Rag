@@ -9,7 +9,7 @@ from langchain.prompts import PromptTemplate
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from typing import List,Dict
 import ollama
-import torch
+# import torch
 import sqlite3
 import numpy as np
 import huggingface_hub

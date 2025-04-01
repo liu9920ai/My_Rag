@@ -1,0 +1,24 @@
+# 核心依赖
+sentence-transformers==3.4.1
+faiss==1.9.0
+transformers==4.50.1
+torch==2.6.0+cu126
+torchaudio==2.6.0+cu126
+torchvision==0.21.0+cu126
+langchain-community==0.3.20
+langchain-huggingface==0.1.2
+huggingface-hub==0.29.3
+openai==1.68.2
+ollama==0.4.7
+
+# 文档处理依赖
+pdfplumber==0.11.5
+python-docx==1.1.2
+PyPDF2==3.0.1
+pandas==2.2.3
+numpy==1.26.4
+
+# 数据处理与检索
+faiss-gpu==1.9.0  # 如果不需要GPU支持，可使用CPU版本
+sentence-transformers==3.4.1
+joblib==1.4.2
