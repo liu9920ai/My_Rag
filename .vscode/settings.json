@@ -28,6 +28,7 @@
         "tuple": "cpp",
         "type_traits": "cpp",
         "xmemory": "cpp",
-        "xtr1common": "cpp"
+        "xtr1common": "cpp",
+        "typeinfo": "cpp"
     }
 }
